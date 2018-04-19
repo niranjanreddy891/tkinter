@@ -6,9 +6,11 @@ while it is running to work properly, and it may be hard to force focus
 on your window across platforms.
 
 
-If you are using python-2.7 you need to use "Tkinter" (without quotes)
 
-If you are using python-3.x you need to use "tkinter" (without quotes) 
+
+If you are using python-2.7 you need to use "Tkinter" (without quotes) while importing the package
+
+If you are using python-3.x you need to use "tkinter" (without quotes) while importing the package
 
 
 To install tkinter on windows, follow these steps:
