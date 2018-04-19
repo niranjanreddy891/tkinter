@@ -18,8 +18,8 @@ To install tkinter on windows, follow these steps:
   2. If you are using pip already, make sure you are using the latest version of pip
   3. If you are using Anaconda, use this command
             
-            "pip install tkinter" (without quotes)
+            pip install tkinter
             
   4. If you are not using Anaconda, open cmd and make sure you are in Scripts folder where your python is installed and then use the command 
             
-            "pip install tkinter" (without quotes)
+            pip install tkinter 
