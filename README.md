@@ -9,6 +9,8 @@ on your window across platforms.
 To test whether tkinter is installed properly or not, use 
 
             import Tkinter ---> (2.7 version)
+            
+            
             import tkinter ---> (3.x version)
 
 If you are using python-2.7 you need to use "Tkinter" (without quotes) while importing the package
