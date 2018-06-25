@@ -7,7 +7,7 @@ class Menubutton(tkinter.Tk):
     def __init__(self):
         tkinter.Tk.__init__(self)
         self.title("MenuButton")
-        self.geometry("250x250")
+        self.geometry("350x350")
 
         menubutton = tkinter.Menubutton(text="Cities")
         menubutton.pack()
