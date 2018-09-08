@@ -18,9 +18,9 @@ class Checkbutton(tkinter.Tk):
 
     def on_checkbutton_click(self):
         if self.checkbuttonvar.get() == 1:
-            print("Checkbutton is selected")
+            print("Checkbutton selected")
         else:
-            print("Checkbutton is not selected")
+            print("Checkbutton not selected")
 
 if __name__ == "__main__":
     application = Checkbutton()
