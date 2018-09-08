@@ -5,7 +5,7 @@ import tkinter, tkinter.ttk
 class Progressbar(tkinter.Tk):
     def __init__(self):
         tkinter.Tk.__init__(self)
-        self.title("Progressbar")
+        self.title("Progress-bar")
 
         self.progressbar = tkinter.ttk.Progressbar()
         self.progressbar.config(maximum=10)
